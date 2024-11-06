@@ -1,4 +1,4 @@
-# HDA-Project
+# Efficient Human Activity Classification Using Recurrent Neural Networks
 Human Data Analytics Project A.Y.23/24
 
 This project explores the effectiveness of three neural network architectures
